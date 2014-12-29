@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/alexdavis/android-sdks/extras/android/m2repository/com/android/support/support-annotations/21.0.3/support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="/Users/alexdavis/work/Notary/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-8ccb3375f9d546c9f5bf8048504f68ea2a27a006.jar" />
+    </item>
+    <item
+        jar="/Users/alexdavis/work/Notary/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="/Users/alexdavis/work/Notary/app/build/intermediates/pre-dexed/debug/classes-75000dabd309b56d42383303311de0522890feb3.jar" />
+    </item>
+    <item
+        jar="/Users/alexdavis/fun/Notary/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="/Users/alexdavis/fun/Notary/app/build/intermediates/pre-dexed/debug/classes-06578beacb3880d299a6748aea7060829086692f.jar" />
+    </item>
+    <item
+        jar="/Users/alexdavis/work/Notary/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/libs/internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="/Users/alexdavis/work/Notary/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-892a80002a01ded91df42ad1d152e0c36d147ded.jar" />
+    </item>
+    <item
+        jar="/Users/alexdavis/fun/Notary/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="/Users/alexdavis/fun/Notary/app/build/intermediates/pre-dexed/debug/classes-6685b268dbe47f493f519634e0b5c026eaae1bcc.jar" />
+    </item>
+    <item
+        jar="/Users/alexdavis/fun/Notary/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/libs/internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="/Users/alexdavis/fun/Notary/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-e506400d50ce583393d5810d7620d960262a429e.jar" />
+    </item>
+    <item
+        jar="/Users/alexdavis/work/Notary/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="/Users/alexdavis/work/Notary/app/build/intermediates/pre-dexed/debug/classes-2a8c83a4e84fd332964dd833afb3fbfc76b1e598.jar" />
+    </item>
+
+</items>
